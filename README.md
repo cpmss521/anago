@@ -1,2 +1,2 @@
 
-biomedical named entity recognition 
+biomedical named entity recognition with Keras implemented
